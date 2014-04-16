@@ -1,0 +1,3 @@
+student sno double 1 sname char 8 sage int 1 sex char 2 
+course cno char 5 cname char 8 teacher char 8 
+sc sno double 1 cno char 5 grade double 1 
